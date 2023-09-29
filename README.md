@@ -24,9 +24,7 @@
 
 ## 开源项目
 
- - [elmplus ](https://github.com/FangjingE/elmplus)：基于 Spring Boot 和 Vue 实现分布式微服务负载均衡校园点餐平台的基础组
-
-   件的开发，实现点餐、购物车、支付等多种功能。
+ - [elmplus ](https://github.com/FangjingE/elmplus)：基于 Spring Boot 和 Vue 实现分布式微服务负载均衡校园点餐平台的基础组件的开发，实现点餐、购物车、支付等多种功能。
 
 # 技能清单
 
