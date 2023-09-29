@@ -3,11 +3,11 @@
 - 方景亿/男/2000 
 - 本科/天津大学智能与计算学部 
 - 2024届毕业生
-- 技术博客：[FangjingE.github.io | fangjinge’s homepage](https://fangjinge.github.io/) 
+- 技术博客：[FangjingE.github.io](https://fangjinge.github.io/) 
 - Github：[FangjingE (github.com)](https://github.com/FangjingE)
 - 手机：18177094515 
 - Email：fangjingee@foxmail.com
-- QQ/微信号：614182859/18177094515（```提供一个通过网络可以联系到你的方式```）
+- QQ/微信号：614182859/18177094515
 - 期望职位：Java开发工程师
 - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
 - 期望城市：北京、广州、深圳、上海、成都、杭州、南宁
